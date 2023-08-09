@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5592931d9c608584b9abca0bb1282b64, type: 3}
+  m_Name: Sound Data
+  m_EditorClassIdentifier: 
+  Music:
+  - clip: {fileID: 8300000, guid: c6345977068db68428e0645476d26219, type: 3}
+    output: {fileID: 0}
+    name: "\u9996\u9801"
+    volume: 1
+    pitch: 1
+    loop: 1
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 72cd94d6507d58348911ba95c313a492, type: 3}
+    output: {fileID: 0}
+    name: "\u95DC\u5361"
+    volume: 1
+    pitch: 1
+    loop: 1
+    playOnAwake: 1
+    source: {fileID: 0}
+  Sound:
+  - clip: {fileID: 8300000, guid: af6791b33ec19914b9e18eeb7e942faf, type: 3}
+    output: {fileID: 0}
+    name: "\u8173\u6B651"
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: f8f9d0939012f6944a307265b81d45d7, type: 3}
+    output: {fileID: 0}
+    name: "\u8173\u6B652"
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: cf2dd4c973a8a8b45816cda52e36b842, type: 3}
+    output: {fileID: 0}
+    name: "\u8173\u6B653"
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: d920d7312139a9e489bc6e3292ac3b7d, type: 3}
+    output: {fileID: 0}
+    name: "\u8173\u6B654"
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: a7bcf95985d0757459954bd81b023bc5, type: 3}
+    output: {fileID: 0}
+    name: "\u81A0\u5E36"
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 7b9e9c47499198c45939b4f3d606f581, type: 3}
+    output: {fileID: 0}
+    name: "\u958B\u9580"
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 34dcb3bed5e02f842915b69b28dd39f2, type: 3}
+    output: {fileID: 0}
+    name: "\u5730\u9707\u8B66\u5831"
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: bc115696f9cf27646b9b6b04efc78c3c, type: 3}
+    output: {fileID: 0}
+    name: "\u6EC5\u706B\u5668"
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: d0a2225ff029e9a49b92ad06e1cfb377, type: 3}
+    output: {fileID: 0}
+    name: fire
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 9c5e50e6868e9bf4282b63f62688afdd, type: 3}
+    output: {fileID: 0}
+    name: GOOD
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: ef0ff381812ca4f41b265f0fd4e12141, type: 3}
+    output: {fileID: 0}
+    name: pistolshot
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: cf5d9665a7b1d4b429e5128be1b33db5, type: 3}
+    output: {fileID: 0}
+    name: "\u5730\u9707\u4F86\u81E8"
+    volume: 1
+    pitch: 1
+    loop: 0
+    playOnAwake: 1
+    source: {fileID: 0}

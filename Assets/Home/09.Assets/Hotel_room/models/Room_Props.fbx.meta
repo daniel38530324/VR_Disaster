@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: a5a1265d832ae5b4db10673f669267aa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Curtain_1_1
+    100002: Curtain_1_2
+    100004: Curtain_2
+    100006: //RootNode
+    100008: SM_Armchair
+    100010: SM_Chair
+    100012: SM_Lamp
+    100014: SM_Light
+    100016: SM_Painting_1
+    100018: SM_Painting_2
+    100020: SM_Painting_3
+    100022: SM_Table
+    100024: SM_TV
+    400000: Curtain_1_1
+    400002: Curtain_1_2
+    400004: Curtain_2
+    400006: //RootNode
+    400008: SM_Armchair
+    400010: SM_Chair
+    400012: SM_Lamp
+    400014: SM_Light
+    400016: SM_Painting_1
+    400018: SM_Painting_2
+    400020: SM_Painting_3
+    400022: SM_Table
+    400024: SM_TV
+    2100000: M_Paintings_Lights
+    2100002: M_Curtains_Light
+    2100004: M_Curtains_Dense
+    2100006: M_Room_Props
+    2300000: Curtain_1_1
+    2300002: Curtain_1_2
+    2300004: Curtain_2
+    2300006: SM_Armchair
+    2300008: SM_Chair
+    2300010: SM_Lamp
+    2300012: SM_Light
+    2300014: SM_Painting_1
+    2300016: SM_Painting_2
+    2300018: SM_Painting_3
+    2300020: SM_Table
+    2300022: SM_TV
+    3300000: Curtain_1_1
+    3300002: Curtain_1_2
+    3300004: Curtain_2
+    3300006: SM_Armchair
+    3300008: SM_Chair
+    3300010: SM_Lamp
+    3300012: SM_Light
+    3300014: SM_Painting_1
+    3300016: SM_Painting_2
+    3300018: SM_Painting_3
+    3300020: SM_Table
+    3300022: SM_TV
+    4300000: SM_Painting_3
+    4300002: SM_Painting_2
+    4300004: SM_Painting_1
+    4300006: SM_Lamp
+    4300008: SM_Light
+    4300010: Curtain_2
+    4300012: Curtain_1_1
+    4300014: Curtain_1_2
+    4300016: SM_Table
+    4300018: SM_Chair
+    4300020: SM_Armchair
+    4300022: SM_TV
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

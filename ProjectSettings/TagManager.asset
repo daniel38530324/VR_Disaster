@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WindowPoint
+  - Floor
+  - Bubble
+  - FireEX
+  - Water
+  - Wok Top
+  - Sendbag
+  - Item
+  - Button
+  - SendbagPoint
+  - ItemPoint
+  - WiresFire
+  - PotFire
+  - BedFire
+  - CO2
+  - DryPowder
+  - SquatDown_Place
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Grab
+  - Player
+  - Hand
+  - Button
+  - Joint
+  - Table
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
